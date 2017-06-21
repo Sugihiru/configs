@@ -1,0 +1,64 @@
+[
+	{
+		"args":
+		{
+			"characters": "ifnd"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"default": "\t",
+			"exact": false
+		},
+		"command": "insert_best_completion"
+	},
+	{
+		"args":
+		{
+			"by": "pages",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"by": "lines",
+			"forward": false
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"characters": "class"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"default": "\t",
+			"exact": false
+		},
+		"command": "insert_best_completion"
+	}
+]

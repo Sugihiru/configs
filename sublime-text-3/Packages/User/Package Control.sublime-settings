@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"C Improved",
+		"C++ Snippets",
+		"CMake",
+		"GitGutter",
+		"Makefile Improved",
+		"OCaml",
+		"Origami",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-clang",
+		"SublimeManpage",
+		"x86 and x86_64 Assembly"
+	]
+}

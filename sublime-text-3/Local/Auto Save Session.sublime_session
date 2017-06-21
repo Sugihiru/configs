@@ -1,0 +1,2319 @@
+{
+	"folder_history":
+	[
+		"/home/khin_c/working_dir/tmp/.git",
+		"/home/khin_c/working_dir/PSU_2016_myirc/my_client",
+		"/home/khin_c/working_dir/PSU_2016_myftp",
+		"/home/khin_c/working_dir/PSU_2016_myirc/my_server",
+		"/home/khin_c/working_dir/cpp_arcade/games/snake"
+	],
+	"last_version": 3126,
+	"last_window_id": 30,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"GS",
+						"GameStatus::GAMEOVERJ2"
+					],
+					[
+						"GAMEO",
+						"GAMEOVERJ1\t(Game.hpp)"
+					],
+					[
+						"mai",
+						"m_ai"
+					],
+					[
+						"mplaie",
+						"m_playerId"
+					],
+					[
+						"mplai",
+						"m_playerId"
+					],
+					[
+						"Explo",
+						"Explosion.hpp\t(Bomb.hpp)"
+					],
+					[
+						"setIm",
+						"setBgImage\t(GameTextures.hpp)"
+					],
+					[
+						"Gm",
+						"GameTextures"
+					],
+					[
+						"gameT",
+						"game_textures"
+					],
+					[
+						"getB",
+						"getBombMesh\t(GameTextures.hpp)"
+					],
+					[
+						"getpla",
+						"getPlayerMesh\t(GameTextures.cpp)"
+					],
+					[
+						"gtex",
+						"GameTextures"
+					],
+					[
+						"Gam",
+						"GameTextures"
+					],
+					[
+						"exce",
+						"exceptions.hpp\t(Menu.cpp)"
+					],
+					[
+						"exp",
+						"explosions"
+					],
+					[
+						"plpo",
+						"playerPos.Z"
+					],
+					[
+						"pale",
+						"playerPos"
+					],
+					[
+						"nodePo",
+						"nodePos"
+					],
+					[
+						"vect",
+						"vector3df"
+					],
+					[
+						"mplayer",
+						"m_playerId"
+					],
+					[
+						"Even",
+						"EventReceiver.hpp\t(Menu.hpp)"
+					],
+					[
+						"mdei",
+						"m_driver"
+					],
+					[
+						"Bomb",
+						"bomberman"
+					],
+					[
+						"S",
+						"SPACE_BETWEEN_EXPLOSIONS"
+					],
+					[
+						"Exl",
+						"Explosion.hpp\t(Explosion.cpp)"
+					],
+					[
+						"Ga",
+						"GraphicInitError"
+					],
+					[
+						"excep",
+						"exceptions.hpp\t(exceptions.cpp)"
+					],
+					[
+						"erro",
+						"errors.h\t(my_str_to_wordtab.c)"
+					],
+					[
+						"my_sr",
+						"my_str_to_wordtab\t(client.h)"
+					],
+					[
+						"clin",
+						"client.h\t(client.h)"
+					],
+					[
+						"rad",
+						"read_value"
+					],
+					[
+						"uni",
+						"unistd.h\t(commands.c)"
+					],
+					[
+						"errn",
+						"errno.h\t(commands.c)"
+					],
+					[
+						"err",
+						"errors.h\t(commands.c)"
+					],
+					[
+						"my_str",
+						"my_str_to_wordtab.c\t(my_str_to_wordtab.c)"
+					],
+					[
+						"stri",
+						"strtab_idx"
+					],
+					[
+						"mys",
+						"my_str_to_wordtab"
+					],
+					[
+						"servr",
+						"serv_responses.h\t(serv_responses.h)"
+					],
+					[
+						"serv",
+						"server.h\t(server.h)"
+					],
+					[
+						"cmd_u",
+						"cmd_user.c\t(cmd_user.c)"
+					],
+					[
+						"nickn",
+						"nickname\t(server.h)"
+					],
+					[
+						"ser",
+						"server.h\t(server.h)"
+					],
+					[
+						"nde",
+						"nodePosition"
+					],
+					[
+						"SERVERSR",
+						"SERVER_SRC"
+					],
+					[
+						"SER",
+						"SERVER_SRCPATH"
+					],
+					[
+						"copl",
+						"complete_path"
+					],
+					[
+						"cmd_po",
+						"cmd_port.c\t(cmd_port.c)"
+					],
+					[
+						"coml",
+						"complete_path"
+					],
+					[
+						"rt",
+						"return"
+					],
+					[
+						"comple",
+						"complete_path"
+					],
+					[
+						"lim",
+						"limits.h\t(commands.c)"
+					],
+					[
+						"delete",
+						"del_carriage_ret"
+					],
+					[
+						"usnig",
+						"unsigned\t(launch_server.c)"
+					],
+					[
+						"cmd_stor",
+						"cmd_stor.c\t(cmd_stor.c)"
+					],
+					[
+						"data",
+						"data_socket"
+					],
+					[
+						"ORD",
+						"O_RDONLY"
+					],
+					[
+						"sock",
+						"socket"
+					],
+					[
+						"my_put",
+						"my_putnbr\t(myftp.h)"
+					],
+					[
+						"un",
+						"unistd.h\t(client.c)"
+					],
+					[
+						"sockadd",
+						"sockaddr"
+					],
+					[
+						"my",
+						"my_putstr"
+					],
+					[
+						"clein",
+						"client_socket"
+					],
+					[
+						"pwd_",
+						"pwd_cmd\t(cmd_working_dir.c)"
+					],
+					[
+						"string",
+						"string.h\t(client.c)"
+					],
+					[
+						"cmd_lo",
+						"cmd_log.c\t(cmd_log.c)"
+					],
+					[
+						"simpec",
+						"simple_cmds.c\t(simple_cmds.c)"
+					],
+					[
+						"connec",
+						"connected\t(server.c)"
+					],
+					[
+						"cie",
+						"client_socket"
+					],
+					[
+						"cmdm",
+						"cmd_modes.c\t(cmd_modes.c)"
+					],
+					[
+						"sockad",
+						"sockaddr_in"
+					],
+					[
+						"inter",
+						"interpret_cmd"
+					],
+					[
+						"ERR_",
+						"ERR_IOCTL\t(commands.c)"
+					],
+					[
+						"comm",
+						"commands.c\t(commands.c)"
+					],
+					[
+						"client_",
+						"client_socket\t(launch_server.c)"
+					],
+					[
+						"lau",
+						"launch_server.c\t(launch_server.c)"
+					],
+					[
+						"init_ser",
+						"init_server.c\t(init_server.c)"
+					],
+					[
+						"SOCKETD",
+						"socket_addr"
+					],
+					[
+						"ERR",
+						"ERR_NO_SUCH_DIR\t(errors.h)"
+					],
+					[
+						"ERRN",
+						"ERR_NO_SUCH_DIR\t(main.c)"
+					],
+					[
+						"ERR_NO",
+						"ERR_NO_SUCH_FILE\t(my_cd.c)"
+					],
+					[
+						"cien",
+						"client_fd"
+					],
+					[
+						"ern",
+						"errno.h\t(main.c)"
+					],
+					[
+						"std",
+						"stdio.h\t(main.c)"
+					],
+					[
+						"ftra",
+						"ftrace.h\t(ftrace.h)"
+					],
+					[
+						"gets",
+						"get_symbol_list\t(ftrace.h)"
+					],
+					[
+						"t_n",
+						"t_stack_node"
+					],
+					[
+						"PTRAPEK",
+						"PTRACE_PEEKUSER"
+					],
+					[
+						"ftr",
+						"ftrace.h\t(add_node64.c)"
+					],
+					[
+						"add",
+						"add_node64\t(nm.h)"
+					],
+					[
+						"ft",
+						"ftrace\t(Makefile)"
+					],
+					[
+						"print",
+						"print_symbols\t(nm.c)"
+					],
+					[
+						"get_",
+						"get_symbol_list64\t(get_symbol_list64.c)"
+					],
+					[
+						"symbo",
+						"symbol_list"
+					],
+					[
+						"symb",
+						"symbol_list"
+					],
+					[
+						"fta",
+						"ftrace.h\t(ftrace.h)"
+					],
+					[
+						"plaz",
+						"plazza.hpp\t(read.cpp)"
+					],
+					[
+						"E",
+						"EMAIL_ADDRESS"
+					],
+					[
+						"commad",
+						"command_line"
+					],
+					[
+						"plazza",
+						"plazza.hpp\t(check.cpp)"
+					],
+					[
+						"exi",
+						"exists\t(read_commands.cpp)"
+					],
+					[
+						"loop",
+						"loop_reading_proc"
+					],
+					[
+						"mth",
+						"m_thread_pool"
+					],
+					[
+						"e",
+						"endl\t(reading_thread.cpp)"
+					],
+					[
+						"except",
+						"exception\t(exceptions.hpp)"
+					],
+					[
+						"Named",
+						"NamedPipe.hpp\t(read_commands.cpp)"
+					],
+					[
+						"threadma",
+						"thread_main_loop\t(plazza.hpp)"
+					],
+					[
+						"mna",
+						"m_name"
+					],
+					[
+						"excp",
+						"except"
+					],
+					[
+						"NP",
+						"NamedPipe"
+					],
+					[
+						"inc",
+						"inc\t#include \"…\""
+					],
+					[
+						"Proce",
+						"Process.hpp\t(Process.cpp)"
+					],
+					[
+						"isVa",
+						"isValidLastname"
+					],
+					[
+						"sysca",
+						"syscall_names"
+					],
+					[
+						"padA",
+						"padAfterInt"
+					],
+					[
+						"p",
+						"phone"
+					],
+					[
+						"firt",
+						"firstname"
+					],
+					[
+						"firsnt",
+						"firstname"
+					],
+					[
+						"firstna",
+						"firstname"
+					],
+					[
+						"b",
+						"begin\tbegin"
+					],
+					[
+						"isV",
+						"isValidFirstname"
+					],
+					[
+						"lastn",
+						"lastname"
+					],
+					[
+						"firstn",
+						"firstname"
+					],
+					[
+						"printC",
+						"printContact"
+					],
+					[
+						"Sc",
+						"ScopedLock.hpp\t(main.cpp)"
+					],
+					[
+						"SC",
+						"ScopedLock.hpp\t(ScopedLock.cpp)"
+					],
+					[
+						"SCL",
+						"ScopedLock"
+					],
+					[
+						"Mutex",
+						"Mutex.hpp\t(Mutex.cpp)"
+					],
+					[
+						"Mu",
+						"Mutex\t(Mutex.hpp)"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 252.0,
+				"last_filter": "pkgins",
+				"selected_items":
+				[
+					[
+						"pkgins",
+						"Package Control: Install Package"
+					],
+					[
+						"pkgremove",
+						"Package Control: Remove Package"
+					],
+					[
+						"gitignore",
+						"Gitignore: New gitignore"
+					],
+					[
+						"pkginst",
+						"Package Control: Install Package"
+					],
+					[
+						"pkglist",
+						"Package Control: List Packages"
+					],
+					[
+						"pkgin",
+						"Package Control: Install Package"
+					],
+					[
+						"pkg",
+						"Package Control: List Packages"
+					],
+					[
+						"pkgli",
+						"Package Control: List Packages"
+					],
+					[
+						"ssasm",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"manpage",
+						"Manpage: Open manual page"
+					],
+					[
+						"ssc",
+						"Set Syntax: C++"
+					],
+					[
+						"42",
+						"42 headers: settings"
+					],
+					[
+						"ssc++",
+						"Set Syntax: C++"
+					],
+					[
+						"pck",
+						"Install Package Control"
+					],
+					[
+						"ssbash",
+						"Set Syntax: Shell Script (Bash)"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"view.run_command(\"epitech_header\")",
+					"view.run_command(\"example\")",
+					"view.run_command()"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/khin_c/working_dir/cpp_indie_studio/.gitignore",
+				"/home/khin_c/working_dir/cpp_indie_studio/src/Game.cpp_",
+				"/home/khin_c/working_dir/cpp_indie_studio/include/Menu.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/include/Game.hpp_",
+				"/home/khin_c/working_dir/cpp_indie_studio/src/Menu.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Menu.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Game.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Player.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Explosion.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Bomb.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Explosion.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Bomb.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Game.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/build/Makefile",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/GameTextures.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/CMakeLists.txt",
+				"/home/khin_c/working_dir/cpp_indie_studio/CMakeLists.txt_",
+				"/home/khin_c/working_dir/cpp_indie_studio/build/CMakeLists.txt",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Player.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/Makefile",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Map.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Menu.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/GameTextures.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/EventReceiver.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Menu.",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Block.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Block.cpp",
+				"/home/khin_c/working_dir/test/main.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/src/Game.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/src/menu.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/include/Option.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/src/option.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/main.cpp",
+				"/home/khin_c/working_dir/tmp/.git/description",
+				"/home/khin_c/perso/sfml/test_prog/running_megaman/main.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/Game.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/src/main.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/main.",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/exceptions.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/Bomb.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/Explosion.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/menu.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/src/exceptions.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/src/Bomb.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/src/Explosion.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/src/main.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/Makefile",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/EventReceiver.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/src/Player.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/include/Player.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/include/EventReceiver.hpp",
+				"/home/khin_c/working_dir/archives/cpp/cpp_plazza/src/Thread.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/Makefile",
+				"/home/khin_c/working_dir/archives/cpp/cpp_plazza/src/reading_thread.cpp",
+				"/home/khin_c/working_dir/archives/cpp/cpp_nanotekspice/src/exceptions.cpp",
+				"/home/khin_c/working_dir/archives/cpp/cpp_nanotekspice/include/exceptions.hpp",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/src/my_str_to_wordtab.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/src/main.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/src/main.",
+				"/home/khin_c/working_dir/archives/c/PSU_2016_nmobjdump/Makefile",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/src/interpret_cmd.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/src/cmd_server.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/main.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/include/errors.h",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/include/client.h",
+				"/home/khin_c/working_dir/PSU_2016_myirc/Makefile",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/include/errors.h",
+				"/home/khin_c/Epitanime/Distance.txt",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/cmd_user.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/cmd_nick.c",
+				"/home/khin_c/working_dir/irc/kickoff/irc.c",
+				"/home/khin_c/Epitanime/CR 01-06.txt",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/commands.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/client.sublime-project",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/include/server.h",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/include/serv",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/include/serv_responses.h",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/launch_server.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/init_server.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/src/cmd_log.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/ftp/client.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/my_str_to_wordtab.c",
+				"/home/khin_c/test/strtab/main.c",
+				"/home/khin_c/working_dir/archives/tek1/PSU_2015_42sh/src/my_str_to_tab.c",
+				"/home/khin_c/working_dir/archives/tek1/PSU_2015_42sh/src/epure_str.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/cmd_quit.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/.gitignore",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/cmd_nick.",
+				"/home/khin_c/working_dir/PSU_2016_myftp/include/myftp.h",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/my_putstr.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/src/init_server.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/src/main.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/src/commands.c",
+				"/home/khin_c/working_dir/irc/kickoff/r",
+				"/home/khin_c/working_dir/PSU_2016_myftp/src/launch_server.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/include/errors.h",
+				"/home/khin_c/test/kivy/test/buildozer.spec",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/Player.hpp",
+				"/home/khin_c/test/kivy/main.py",
+				"/home/khin_c/Downloads/irrlicht-1.8.4/examples/01.HelloWorld/main.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/irrlicht-1.8.4/include/EMaterialFlags.h",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/irrlicht-1.8.4/include/irrlicht.h",
+				"/home/khin_c/working_dir/cpp_indie_studio/Game.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/Game.cpp",
+				"/home/khin_c/Downloads/irrlicht-1.8.4/examples/04.Movement/main.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/Map.hpp",
+				"/home/khin_c/working_dir/irc/irc.c",
+				"/home/khin_c/working_dir/irc/bootstrap/server.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/ftp/server.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/.gitignore",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/irc_server.sublime-project",
+				"/home/khin_c/working_dir/indie/src/Player.cpp",
+				"/home/khin_c/working_dir/indie/src/main.cpp",
+				"/home/khin_c/working_dir/indie/src/Game.cpp",
+				"/home/khin_c/working_dir/indie/include/Game.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/include/Game.hpp",
+				"/home/khin_c/working_dir/indie/include/Player.hpp",
+				"/home/khin_c/working_dir/indie/Makefile",
+				"/home/khin_c/working_dir/indie/include/irr/IAnimatedMeshMD2.h",
+				"/home/khin_c/working_dir/indie/include/irr/IAnimatedMesh.h",
+				"/home/khin_c/working_dir/cpp_indie_studio/iturri/CMakeLists.txt",
+				"/home/khin_c/working_dir/indie/include/EventReceiver.hpp",
+				"/home/khin_c/Epitanime/rush_asso.txt",
+				"/home/khin_c/working_dir/cpp_indie_studio/iturri/Makefile",
+				"/home/khin_c/notes/cours_python_draft.txt",
+				"/home/khin_c/Downloads/test.py",
+				"/home/khin_c/working_dir/cpp_indie_studio/iturri/main.cpp",
+				"/home/khin_c/working_dir/PSU_2016_myirc/server/src/main.c"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"game_over",
+					"GameStatus",
+					"m_player",
+					"Game",
+					"m_player",
+					"getPlayerId",
+					"GAMEOVER",
+					"Game",
+					"getNbPlayersAlive",
+					"m_status",
+					"isRunning",
+					"GameStatus",
+					"winningPlayer",
+					"isRunning",
+					"startgame",
+					"sleep",
+					"tmp",
+					"Menu",
+					"tmp",
+					"startGame",
+					"input",
+					"sound",
+					"sound\"\"",
+					"hasCollided",
+					"irr",
+					"Game",
+					"m_player2",
+					"Player",
+					"> ",
+					"prevPos2",
+					"prevPosAI",
+					"m_eventReceiver",
+					"IA",
+					"Player",
+					"Game",
+					"player",
+					"m_player2",
+					"AI2",
+					"network",
+					"merge",
+					"-I",
+					"merge",
+					"AI2",
+					"IS",
+					"AI2",
+					"const",
+					"pos",
+					"Bomb",
+					"Player",
+					"m_map",
+					"Bomb",
+					"m_meshNode",
+					"getConvertedPosition",
+					"Player",
+					"const",
+					"m_player",
+					"Game",
+					"*it",
+					"PlayerExplosion",
+					"m_player",
+					"Game",
+					"m_player",
+					"m_player2",
+					"m_player",
+					"playerId",
+					"SPA",
+					"m_player",
+					"true",
+					"setBombKeyPressedtrue",
+					"m_isSpacePressed",
+					"Playe",
+					"Player",
+					"status",
+					"vbool",
+					"m_bombKeyIsPressed",
+					"cursorcontrol",
+					"Player",
+					"EXITING",
+					"m_bombKey",
+					"Player",
+					"void",
+					"m_status",
+					"dead",
+					"s",
+					"node",
+					"explosion",
+					"node",
+					"m_groundTexture",
+					"bg->setImage",
+					"game_textures",
+					"GameTextures",
+					"texture",
+					"new_texture",
+					"GameTextures",
+					"m_bgImage",
+					"addImage",
+					"m_bgImage",
+					"bg.png",
+					"png",
+					"jpg",
+					"png",
+					"env",
+					"bg",
+					"add",
+					"m_player",
+					"shared_ptr",
+					"m_te",
+					"textures",
+					"getGroundTexture",
+					"m_mapIsCreated",
+					"GameTextures",
+					")\n",
+					"std::cout",
+					"m_scene",
+					"dispaly",
+					"game_textures",
+					"m_textures",
+					"textures",
+					"GameTextures",
+					"getBombTexture",
+					"m_bombTexture",
+					"GameTextures",
+					"m_bombMesh",
+					"GameTextures",
+					"m_playerMesh",
+					"bg_texture",
+					"m_groundTexture",
+					"m_bgTexture"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 312.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 207.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"GS",
+						"GameStatus::GAMEOVERJ2"
+					],
+					[
+						"GAMEO",
+						"GAMEOVERJ1\t(Game.hpp)"
+					],
+					[
+						"mai",
+						"m_ai"
+					],
+					[
+						"mplaie",
+						"m_playerId"
+					],
+					[
+						"mplai",
+						"m_playerId"
+					],
+					[
+						"Explo",
+						"Explosion.hpp\t(Bomb.hpp)"
+					],
+					[
+						"setIm",
+						"setBgImage\t(GameTextures.hpp)"
+					],
+					[
+						"Gm",
+						"GameTextures"
+					],
+					[
+						"gameT",
+						"game_textures"
+					],
+					[
+						"getB",
+						"getBombMesh\t(GameTextures.hpp)"
+					],
+					[
+						"getpla",
+						"getPlayerMesh\t(GameTextures.cpp)"
+					],
+					[
+						"gtex",
+						"GameTextures"
+					],
+					[
+						"Gam",
+						"GameTextures"
+					],
+					[
+						"exce",
+						"exceptions.hpp\t(Menu.cpp)"
+					],
+					[
+						"exp",
+						"explosions"
+					],
+					[
+						"plpo",
+						"playerPos.Z"
+					],
+					[
+						"pale",
+						"playerPos"
+					],
+					[
+						"nodePo",
+						"nodePos"
+					],
+					[
+						"vect",
+						"vector3df"
+					],
+					[
+						"mplayer",
+						"m_playerId"
+					],
+					[
+						"Even",
+						"EventReceiver.hpp\t(Menu.hpp)"
+					],
+					[
+						"mdei",
+						"m_driver"
+					],
+					[
+						"Bomb",
+						"bomberman"
+					],
+					[
+						"S",
+						"SPACE_BETWEEN_EXPLOSIONS"
+					],
+					[
+						"Exl",
+						"Explosion.hpp\t(Explosion.cpp)"
+					],
+					[
+						"Ga",
+						"GraphicInitError"
+					],
+					[
+						"excep",
+						"exceptions.hpp\t(exceptions.cpp)"
+					],
+					[
+						"erro",
+						"errors.h\t(my_str_to_wordtab.c)"
+					],
+					[
+						"my_sr",
+						"my_str_to_wordtab\t(client.h)"
+					],
+					[
+						"clin",
+						"client.h\t(client.h)"
+					],
+					[
+						"rad",
+						"read_value"
+					],
+					[
+						"uni",
+						"unistd.h\t(commands.c)"
+					],
+					[
+						"errn",
+						"errno.h\t(commands.c)"
+					],
+					[
+						"err",
+						"errors.h\t(commands.c)"
+					],
+					[
+						"my_str",
+						"my_str_to_wordtab.c\t(my_str_to_wordtab.c)"
+					],
+					[
+						"stri",
+						"strtab_idx"
+					],
+					[
+						"mys",
+						"my_str_to_wordtab"
+					],
+					[
+						"servr",
+						"serv_responses.h\t(serv_responses.h)"
+					],
+					[
+						"serv",
+						"server.h\t(server.h)"
+					],
+					[
+						"cmd_u",
+						"cmd_user.c\t(cmd_user.c)"
+					],
+					[
+						"nickn",
+						"nickname\t(server.h)"
+					],
+					[
+						"ser",
+						"server.h\t(server.h)"
+					],
+					[
+						"nde",
+						"nodePosition"
+					],
+					[
+						"SERVERSR",
+						"SERVER_SRC"
+					],
+					[
+						"SER",
+						"SERVER_SRCPATH"
+					],
+					[
+						"copl",
+						"complete_path"
+					],
+					[
+						"cmd_po",
+						"cmd_port.c\t(cmd_port.c)"
+					],
+					[
+						"coml",
+						"complete_path"
+					],
+					[
+						"rt",
+						"return"
+					],
+					[
+						"comple",
+						"complete_path"
+					],
+					[
+						"lim",
+						"limits.h\t(commands.c)"
+					],
+					[
+						"delete",
+						"del_carriage_ret"
+					],
+					[
+						"usnig",
+						"unsigned\t(launch_server.c)"
+					],
+					[
+						"cmd_stor",
+						"cmd_stor.c\t(cmd_stor.c)"
+					],
+					[
+						"data",
+						"data_socket"
+					],
+					[
+						"ORD",
+						"O_RDONLY"
+					],
+					[
+						"sock",
+						"socket"
+					],
+					[
+						"my_put",
+						"my_putnbr\t(myftp.h)"
+					],
+					[
+						"un",
+						"unistd.h\t(client.c)"
+					],
+					[
+						"sockadd",
+						"sockaddr"
+					],
+					[
+						"my",
+						"my_putstr"
+					],
+					[
+						"clein",
+						"client_socket"
+					],
+					[
+						"pwd_",
+						"pwd_cmd\t(cmd_working_dir.c)"
+					],
+					[
+						"string",
+						"string.h\t(client.c)"
+					],
+					[
+						"cmd_lo",
+						"cmd_log.c\t(cmd_log.c)"
+					],
+					[
+						"simpec",
+						"simple_cmds.c\t(simple_cmds.c)"
+					],
+					[
+						"connec",
+						"connected\t(server.c)"
+					],
+					[
+						"cie",
+						"client_socket"
+					],
+					[
+						"cmdm",
+						"cmd_modes.c\t(cmd_modes.c)"
+					],
+					[
+						"sockad",
+						"sockaddr_in"
+					],
+					[
+						"inter",
+						"interpret_cmd"
+					],
+					[
+						"ERR_",
+						"ERR_IOCTL\t(commands.c)"
+					],
+					[
+						"comm",
+						"commands.c\t(commands.c)"
+					],
+					[
+						"client_",
+						"client_socket\t(launch_server.c)"
+					],
+					[
+						"lau",
+						"launch_server.c\t(launch_server.c)"
+					],
+					[
+						"init_ser",
+						"init_server.c\t(init_server.c)"
+					],
+					[
+						"SOCKETD",
+						"socket_addr"
+					],
+					[
+						"ERR",
+						"ERR_NO_SUCH_DIR\t(errors.h)"
+					],
+					[
+						"ERRN",
+						"ERR_NO_SUCH_DIR\t(main.c)"
+					],
+					[
+						"ERR_NO",
+						"ERR_NO_SUCH_FILE\t(my_cd.c)"
+					],
+					[
+						"cien",
+						"client_fd"
+					],
+					[
+						"ern",
+						"errno.h\t(main.c)"
+					],
+					[
+						"std",
+						"stdio.h\t(main.c)"
+					],
+					[
+						"ftra",
+						"ftrace.h\t(ftrace.h)"
+					],
+					[
+						"gets",
+						"get_symbol_list\t(ftrace.h)"
+					],
+					[
+						"t_n",
+						"t_stack_node"
+					],
+					[
+						"PTRAPEK",
+						"PTRACE_PEEKUSER"
+					],
+					[
+						"ftr",
+						"ftrace.h\t(add_node64.c)"
+					],
+					[
+						"add",
+						"add_node64\t(nm.h)"
+					],
+					[
+						"ft",
+						"ftrace\t(Makefile)"
+					],
+					[
+						"print",
+						"print_symbols\t(nm.c)"
+					],
+					[
+						"get_",
+						"get_symbol_list64\t(get_symbol_list64.c)"
+					],
+					[
+						"symbo",
+						"symbol_list"
+					],
+					[
+						"symb",
+						"symbol_list"
+					],
+					[
+						"fta",
+						"ftrace.h\t(ftrace.h)"
+					],
+					[
+						"plaz",
+						"plazza.hpp\t(read.cpp)"
+					],
+					[
+						"E",
+						"EMAIL_ADDRESS"
+					],
+					[
+						"commad",
+						"command_line"
+					],
+					[
+						"plazza",
+						"plazza.hpp\t(check.cpp)"
+					],
+					[
+						"exi",
+						"exists\t(read_commands.cpp)"
+					],
+					[
+						"loop",
+						"loop_reading_proc"
+					],
+					[
+						"mth",
+						"m_thread_pool"
+					],
+					[
+						"e",
+						"endl\t(reading_thread.cpp)"
+					],
+					[
+						"except",
+						"exception\t(exceptions.hpp)"
+					],
+					[
+						"Named",
+						"NamedPipe.hpp\t(read_commands.cpp)"
+					],
+					[
+						"threadma",
+						"thread_main_loop\t(plazza.hpp)"
+					],
+					[
+						"mna",
+						"m_name"
+					],
+					[
+						"excp",
+						"except"
+					],
+					[
+						"NP",
+						"NamedPipe"
+					],
+					[
+						"inc",
+						"inc\t#include \"…\""
+					],
+					[
+						"Proce",
+						"Process.hpp\t(Process.cpp)"
+					],
+					[
+						"isVa",
+						"isValidLastname"
+					],
+					[
+						"sysca",
+						"syscall_names"
+					],
+					[
+						"padA",
+						"padAfterInt"
+					],
+					[
+						"p",
+						"phone"
+					],
+					[
+						"firt",
+						"firstname"
+					],
+					[
+						"firsnt",
+						"firstname"
+					],
+					[
+						"firstna",
+						"firstname"
+					],
+					[
+						"b",
+						"begin\tbegin"
+					],
+					[
+						"isV",
+						"isValidFirstname"
+					],
+					[
+						"lastn",
+						"lastname"
+					],
+					[
+						"firstn",
+						"firstname"
+					],
+					[
+						"printC",
+						"printContact"
+					],
+					[
+						"Sc",
+						"ScopedLock.hpp\t(main.cpp)"
+					],
+					[
+						"SC",
+						"ScopedLock.hpp\t(ScopedLock.cpp)"
+					],
+					[
+						"SCL",
+						"ScopedLock"
+					],
+					[
+						"Mutex",
+						"Mutex.hpp\t(Mutex.cpp)"
+					],
+					[
+						"Mu",
+						"Mutex\t(Mutex.hpp)"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/khin_c/working_dir/cpp_indie_studio/include/AI2.hpp",
+					"settings":
+					{
+						"buffer_size": 1270,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "#ifndef __GAME_HPP__\n#define __GAME_HPP__\n\n#include <memory>\n#include <vector>\n#include <exception>\n#include <SFML/Audio.hpp>\n#include \"GameTextures.hpp\"\n#include \"Player.hpp\"\n#include \"AI2.hpp\"\n#include \"EventReceiver.hpp\"\n#include \"Bomb.hpp\"\n\nconst irr::f32 WALL_SIZE = 20;\n\nenum class GameStatus\n{\n\tRUNNING,\n\tEXITING,\n\tGAMEOVER\n};\n\nclass Game\n{\npublic:\n         irr::video::IVideoDriver *driver,\n         EventReceiver &event_receiver,\n         std::shared_ptr<GameTextures> textures);\n\t~Game();\n\n\tGameStatus isRunning() const;\n\tvoid display();\n\tirr::u8 getWinningPlayerId() const;\n\nprivate:\n\tvoid getInput();\n\tirr::u8 getNbBombsFromPlayer(irr::u8 playerId) const;\n\tvoid addMap();\n\tvoid initBlock(irr::scene::IMeshSceneNode *block,\n                   irr::core::vector3df pos);\n\tvoid checkBombInput(std::unique_ptr<Player> &player);\n\tvoid checkBombInput(std::unique_ptr<AI2> &player);\n\tvoid PlayerExplosion(std::unique_ptr<Player> &player,\n                         const std::unique_ptr<Explosion> &explosion);\n\tvoid PlayerExplosion(std::unique_ptr<AI2> &player,\n\t                     const std::unique_ptr<Explosion> &explosion);\n\tirr::u8 getNbPlayersAlive() const;\n\n\n\tirr::IrrlichtDevice\t\t\t\t\t*m_win;\n\tirr::video::IVideoDriver\t\t\t*m_driver;\n\tirr::scene::ISceneManager \t\t\t*m_sceneManager;\n\tirr::gui::IGUIEnvironment\t\t\t*m_env;\n\n\tirr::scene::ICameraSceneNode\t\t*m_cameraNode;\n\tstd::shared_ptr<GameTextures> \t\tm_textures;\n\n\tstd::unique_ptr<Player>\t\t\t\tm_player;\n\tstd::unique_ptr<Player>\t\t\t\tm_player2;\n\tstd::unique_ptr<AI2> \t\t\t\tm_ai;\n\n\tEventReceiver\t\t\t\t\t\t&m_eventReceiver;\n\tstd::vector<std::unique_ptr<Bomb> >\tm_bombs;\n\tstd::vector<std::unique_ptr<Explosion> >\tm_explosions;\n\tbool \t\t\t\t\t\t\t\tm_isSpacePressed;\n\n\tGameStatus \t\t\t\t\t\t\tm_status;\n\n\t// Map\n\tstd::vector<irr::scene::IMeshSceneNode *> m_map;\n\t// sound explosion\n\tsf::SoundBuffer\t\tsoundbuffer;\n\tsf::Sound\tsound;\n};\n\n#endif // __GAME_HPP__\n",
+					"file": "/home/khin_c/working_dir/cpp_indie_studio/include/Game.hpp",
+					"file_size": 1923,
+					"file_write_time": 131422783435964400,
+					"settings":
+					{
+						"buffer_size": 1888,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/khin_c/working_dir/cpp_indie_studio/include/Menu.hpp",
+					"settings":
+					{
+						"buffer_size": 1122,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/khin_c/working_dir/cpp_indie_studio/src/Game.cpp",
+					"settings":
+					{
+						"buffer_size": 9770,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/khin_c/working_dir/cpp_indie_studio/src/Menu.cpp",
+					"settings":
+					{
+						"buffer_size": 6363,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/khin_c/working_dir/cpp_indie_studio/CMakeLists.txt",
+					"settings":
+					{
+						"buffer_size": 913,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/khin_c/working_dir/cpp_indie_studio/src/Player.cpp",
+					"settings":
+					{
+						"buffer_size": 3600,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/khin_c/working_dir/cpp_indie_studio/src/AI2.cpp",
+					"settings":
+					{
+						"buffer_size": 2962,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 252.0,
+				"last_filter": "pkgins",
+				"selected_items":
+				[
+					[
+						"pkgins",
+						"Package Control: Install Package"
+					],
+					[
+						"pkgremove",
+						"Package Control: Remove Package"
+					],
+					[
+						"gitignore",
+						"Gitignore: New gitignore"
+					],
+					[
+						"pkginst",
+						"Package Control: Install Package"
+					],
+					[
+						"pkglist",
+						"Package Control: List Packages"
+					],
+					[
+						"pkgin",
+						"Package Control: Install Package"
+					],
+					[
+						"pkg",
+						"Package Control: List Packages"
+					],
+					[
+						"pkgli",
+						"Package Control: List Packages"
+					],
+					[
+						"ssasm",
+						"Set Syntax: x86 and x86_64 Assembly"
+					],
+					[
+						"manpage",
+						"Manpage: Open manual page"
+					],
+					[
+						"ssc",
+						"Set Syntax: C++"
+					],
+					[
+						"42",
+						"42 headers: settings"
+					],
+					[
+						"ssc++",
+						"Set Syntax: C++"
+					],
+					[
+						"pck",
+						"Install Package Control"
+					],
+					[
+						"ssbash",
+						"Set Syntax: Shell Script (Bash)"
+					]
+				],
+				"width": 485.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"view.run_command(\"epitech_header\")",
+					"view.run_command(\"example\")",
+					"view.run_command()"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/khin_c/working_dir/cpp_indie_studio/.gitignore",
+				"/home/khin_c/working_dir/cpp_indie_studio/src/Game.cpp_",
+				"/home/khin_c/working_dir/cpp_indie_studio/include/Menu.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/include/Game.hpp_",
+				"/home/khin_c/working_dir/cpp_indie_studio/src/Menu.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Menu.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Game.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Player.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Explosion.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Bomb.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Explosion.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Bomb.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Game.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/build/Makefile",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/GameTextures.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/CMakeLists.txt",
+				"/home/khin_c/working_dir/cpp_indie_studio/CMakeLists.txt_",
+				"/home/khin_c/working_dir/cpp_indie_studio/build/CMakeLists.txt",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Player.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/Makefile",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Map.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Menu.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/GameTextures.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/EventReceiver.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Menu.",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/include/Block.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/Block.cpp",
+				"/home/khin_c/working_dir/test/main.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/src/Game.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/src/menu.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/include/Option.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/src/option.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/main.cpp",
+				"/home/khin_c/working_dir/tmp/.git/description",
+				"/home/khin_c/perso/sfml/test_prog/running_megaman/main.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/Game.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/src/main.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/main.",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/exceptions.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/Bomb.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/Explosion.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/merge/src/menu.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/src/exceptions.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/src/Bomb.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/src/Explosion.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/src/main.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/Makefile",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/EventReceiver.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/src/Player.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/include/Player.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/include/EventReceiver.hpp",
+				"/home/khin_c/working_dir/archives/cpp/cpp_plazza/src/Thread.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/Makefile",
+				"/home/khin_c/working_dir/archives/cpp/cpp_plazza/src/reading_thread.cpp",
+				"/home/khin_c/working_dir/archives/cpp/cpp_nanotekspice/src/exceptions.cpp",
+				"/home/khin_c/working_dir/archives/cpp/cpp_nanotekspice/include/exceptions.hpp",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/src/my_str_to_wordtab.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/src/main.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/src/main.",
+				"/home/khin_c/working_dir/archives/c/PSU_2016_nmobjdump/Makefile",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/src/interpret_cmd.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/src/cmd_server.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/main.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/include/errors.h",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/include/client.h",
+				"/home/khin_c/working_dir/PSU_2016_myirc/Makefile",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/include/errors.h",
+				"/home/khin_c/Epitanime/Distance.txt",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/cmd_user.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/cmd_nick.c",
+				"/home/khin_c/working_dir/irc/kickoff/irc.c",
+				"/home/khin_c/Epitanime/CR 01-06.txt",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/commands.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_client/client.sublime-project",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/include/server.h",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/include/serv",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/include/serv_responses.h",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/launch_server.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/init_server.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/src/cmd_log.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/ftp/client.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/my_str_to_wordtab.c",
+				"/home/khin_c/test/strtab/main.c",
+				"/home/khin_c/working_dir/archives/tek1/PSU_2015_42sh/src/my_str_to_tab.c",
+				"/home/khin_c/working_dir/archives/tek1/PSU_2015_42sh/src/epure_str.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/cmd_quit.c",
+				"/home/khin_c/working_dir/PSU_2016_myirc/.gitignore",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/cmd_nick.",
+				"/home/khin_c/working_dir/PSU_2016_myftp/include/myftp.h",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/src/my_putstr.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/src/init_server.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/src/main.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/src/commands.c",
+				"/home/khin_c/working_dir/irc/kickoff/r",
+				"/home/khin_c/working_dir/PSU_2016_myftp/src/launch_server.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/include/errors.h",
+				"/home/khin_c/test/kivy/test/buildozer.spec",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/Player.hpp",
+				"/home/khin_c/test/kivy/main.py",
+				"/home/khin_c/Downloads/irrlicht-1.8.4/examples/01.HelloWorld/main.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/irrlicht-1.8.4/include/EMaterialFlags.h",
+				"/home/khin_c/working_dir/cpp_indie_studio/menu/irrlicht-1.8.4/include/irrlicht.h",
+				"/home/khin_c/working_dir/cpp_indie_studio/Game.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/Game.cpp",
+				"/home/khin_c/Downloads/irrlicht-1.8.4/examples/04.Movement/main.cpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/game/include/Map.hpp",
+				"/home/khin_c/working_dir/irc/irc.c",
+				"/home/khin_c/working_dir/irc/bootstrap/server.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/ftp/server.c",
+				"/home/khin_c/working_dir/PSU_2016_myftp/.gitignore",
+				"/home/khin_c/working_dir/PSU_2016_myirc/my_server/irc_server.sublime-project",
+				"/home/khin_c/working_dir/indie/src/Player.cpp",
+				"/home/khin_c/working_dir/indie/src/main.cpp",
+				"/home/khin_c/working_dir/indie/src/Game.cpp",
+				"/home/khin_c/working_dir/indie/include/Game.hpp",
+				"/home/khin_c/working_dir/cpp_indie_studio/include/Game.hpp",
+				"/home/khin_c/working_dir/indie/include/Player.hpp",
+				"/home/khin_c/working_dir/indie/Makefile",
+				"/home/khin_c/working_dir/indie/include/irr/IAnimatedMeshMD2.h",
+				"/home/khin_c/working_dir/indie/include/irr/IAnimatedMesh.h",
+				"/home/khin_c/working_dir/cpp_indie_studio/iturri/CMakeLists.txt",
+				"/home/khin_c/working_dir/indie/include/EventReceiver.hpp",
+				"/home/khin_c/Epitanime/rush_asso.txt",
+				"/home/khin_c/working_dir/cpp_indie_studio/iturri/Makefile",
+				"/home/khin_c/notes/cours_python_draft.txt",
+				"/home/khin_c/Downloads/test.py",
+				"/home/khin_c/working_dir/cpp_indie_studio/iturri/main.cpp",
+				"/home/khin_c/working_dir/PSU_2016_myirc/server/src/main.c"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"game_over",
+					"GameStatus",
+					"m_player",
+					"Game",
+					"m_player",
+					"getPlayerId",
+					"GAMEOVER",
+					"Game",
+					"getNbPlayersAlive",
+					"m_status",
+					"isRunning",
+					"GameStatus",
+					"winningPlayer",
+					"isRunning",
+					"startgame",
+					"sleep",
+					"tmp",
+					"Menu",
+					"tmp",
+					"startGame",
+					"input",
+					"sound",
+					"sound\"\"",
+					"hasCollided",
+					"irr",
+					"Game",
+					"m_player2",
+					"Player",
+					"> ",
+					"prevPos2",
+					"prevPosAI",
+					"m_eventReceiver",
+					"IA",
+					"Player",
+					"Game",
+					"player",
+					"m_player2",
+					"AI2",
+					"network",
+					"merge",
+					"-I",
+					"merge",
+					"AI2",
+					"IS",
+					"AI2",
+					"const",
+					"pos",
+					"Bomb",
+					"Player",
+					"m_map",
+					"Bomb",
+					"m_meshNode",
+					"getConvertedPosition",
+					"Player",
+					"const",
+					"m_player",
+					"Game",
+					"*it",
+					"PlayerExplosion",
+					"m_player",
+					"Game",
+					"m_player",
+					"m_player2",
+					"m_player",
+					"playerId",
+					"SPA",
+					"m_player",
+					"true",
+					"setBombKeyPressedtrue",
+					"m_isSpacePressed",
+					"Playe",
+					"Player",
+					"status",
+					"vbool",
+					"m_bombKeyIsPressed",
+					"cursorcontrol",
+					"Player",
+					"EXITING",
+					"m_bombKey",
+					"Player",
+					"void",
+					"m_status",
+					"dead",
+					"s",
+					"node",
+					"explosion",
+					"node",
+					"m_groundTexture",
+					"bg->setImage",
+					"game_textures",
+					"GameTextures",
+					"texture",
+					"new_texture",
+					"GameTextures",
+					"m_bgImage",
+					"addImage",
+					"m_bgImage",
+					"bg.png",
+					"png",
+					"jpg",
+					"png",
+					"env",
+					"bg",
+					"add",
+					"m_player",
+					"shared_ptr",
+					"m_te",
+					"textures",
+					"getGroundTexture",
+					"m_mapIsCreated",
+					"GameTextures",
+					")\n",
+					"std::cout",
+					"m_scene",
+					"dispaly",
+					"game_textures",
+					"m_textures",
+					"textures",
+					"GameTextures",
+					"getBombTexture",
+					"m_bombTexture",
+					"GameTextures",
+					"m_bombMesh",
+					"GameTextures",
+					"m_playerMesh",
+					"bg_texture",
+					"m_groundTexture",
+					"m_bgTexture"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/khin_c/working_dir/cpp_indie_studio/include/AI2.hpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1270,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										688,
+										688
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 45.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/khin_c/working_dir/cpp_indie_studio/include/Game.hpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1888,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										356,
+										356
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/khin_c/working_dir/cpp_indie_studio/include/Menu.hpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1122,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										322,
+										322
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "/home/khin_c/working_dir/cpp_indie_studio/src/Game.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9770,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8049,
+										8049
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3081.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/khin_c/working_dir/cpp_indie_studio/src/Menu.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6363,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3822,
+										3822
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1628.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/khin_c/working_dir/cpp_indie_studio/CMakeLists.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 913,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										352,
+										352
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/CMake/CMake.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/khin_c/working_dir/cpp_indie_studio/src/Player.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3600,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										570,
+										570
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/khin_c/working_dir/cpp_indie_studio/src/AI2.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2962,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										570,
+										570
+									]
+								],
+								"settings":
+								{
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 312.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 207.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 24,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/khin_c/working_dir/PSU_2016_myirc/my_client/client.sublime-workspace",
+			"/home/khin_c/working_dir/PSU_2016_myirc/my_server/irc_server.sublime-workspace",
+			"/home/khin_c/working_dir/PSU_2016_myftp/ftp.sublime-workspace"
+		]
+	}
+}

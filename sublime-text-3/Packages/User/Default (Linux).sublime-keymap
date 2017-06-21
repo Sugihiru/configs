@@ -1,0 +1,14 @@
+[
+	// Jump to next paragraph
+	{"keys": ["ctrl+up"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": false}},
+	{"keys": ["ctrl+down"], "command": "move", "args": {"by": "stops", "empty_line": true, "forward": true}},
+	{"keys": ["alt+q"], "command": "run_macro_file", "args": {"file": "Packages/User/class_header.sublime-macro"}},
+	{"keys": ["alt+a"], "command": "run_macro_file", "args": {"file": "Packages/User/class_file.sublime-macro"}},
+
+	{"keys": ["ctrl+alt+h"], "command": "epitech_header"},
+	{"keys": ["ctrl+m"], "command": "manpage"},
+
+	// Origami switch panes
+    {"keys": ["alt+pageup"], "command": "travel_to_pane", "args": {"direction": "left"}},
+    {"keys": ["alt+pagedown"], "command": "travel_to_pane", "args": {"direction": "right"}},
+]
