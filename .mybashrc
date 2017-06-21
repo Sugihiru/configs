@@ -1,0 +1,16 @@
+export PAGER="less"
+export PS1="\[\033[38;5;10m\](\u@\W)> \[$(tput sgr0)\]"
+
+# ls
+alias ll="ls -lh"
+alias la="ls -lah"
+
+# Git
+alias gs="git status"
+gadd() { git add $@ && git status; }
+alias gcommit="git commit"
+alias gpush="git push"
+alias gpull="git pull"
+
+alias mv="mv -v"
+alias cp="cp -v"
