@@ -13,5 +13,6 @@
 		80
 	],
 	"translate_tabs_to_space": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"show_encoding": true,
 }
