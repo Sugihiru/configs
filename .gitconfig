@@ -1,0 +1,14 @@
+[user]
+	email = cedric.khin@epitech.eu
+	name = Cedric Khin
+
+[alias]
+	co = checkout
+	ci = commit
+	br = branch
+	di = diff
+	st = status
+	sh = show
+
+[core]
+	editor = vim
